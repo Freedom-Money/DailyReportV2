@@ -1,4 +1,4 @@
-name: TikTok报告 - 手动提交数据（慎重）
+name: 1_TikTok报告 - 手动提交数据（慎重）
 
 on:
   workflow_dispatch:
