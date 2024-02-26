@@ -1,5 +1,3 @@
-name: 2_TikTok报告_手动提交数据（慎重）
-
 on:
   workflow_dispatch:
 

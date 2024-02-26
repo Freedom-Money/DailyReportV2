@@ -1,5 +1,3 @@
-name: 2_TikTok日报
-
 on:
   schedule:
     - cron: '50 12 * * *'  # 每天的20:50执行
